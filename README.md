@@ -26,10 +26,7 @@ JavaScript – Interactivity
 
 📂 Project Structure
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
+├── style.css
 ├── assets/
 │   └── images
 └── README.md
@@ -38,7 +35,7 @@ JavaScript – Interactivity
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ManasBisht81/Fashion-ecommerce.git
 
 
 Open the project folder
@@ -61,7 +58,7 @@ Understand real-world e-commerce layouts
 
 📸 Preview
 
-Add screenshots of your website here
+![Homepage]
 
 📌 Future Improvements
 
