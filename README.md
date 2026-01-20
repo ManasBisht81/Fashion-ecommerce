@@ -58,7 +58,9 @@ Understand real-world e-commerce layouts
 
 📸 Preview
 
-![Homepage]
+![Desktop](assets/Preview/desktop%20(1).png)
+![Mobile](assets/Preview/mobile.png)
+
 
 📌 Future Improvements
 
